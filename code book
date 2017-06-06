@@ -1,0 +1,16 @@
+#code book
+
+Code book summarizes the results in sorted.txt
+
+
+#Identifiers
+
+subject - The ID of the test subject
+activity - The type of activity performed when the measurements were taken
+
+#Measurements
+
+#Activity Labels
+
+Walking (1) - pearson is walking during the test
+Walking_up
