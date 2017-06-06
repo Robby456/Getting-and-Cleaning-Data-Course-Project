@@ -13,4 +13,8 @@ activity - The type of activity performed when the measurements were taken
 #Activity Labels
 
 Walking (1) - pearson is walking during the test
-Walking_up
+Walking_up (2) - pearson is walking up a stairs 
+Walking_down (3) - pearson is walking down a stairs 
+Sitting (4) - pearson is sitting 
+Standing (5) - pearson is standing 
+Laying (6) - pearson is lying
